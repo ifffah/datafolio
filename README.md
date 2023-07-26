@@ -8,7 +8,9 @@ This repository is a collection of my data projects. The topics delve into my pe
 ## Table of Content
 - R Projects
   - [University Project on Breast Cancer](https://github.com/ifffah/datafolio#university-project-on-breast-cancer)
-
+- Excel Projects
+- SQL Projects
+  - Genshin Impact Character 
 # R Projects
 
 ### University Project on Breast Cancer
