@@ -7,7 +7,7 @@ This repository is a collection of my data projects. The topics delve into my pe
 
 ## Table of Content
 - R Projects
-  - [A Non-Invasive Method of Detecting Breast Cancer: Determining its Effectiveness](https://github.com/ifffah/datafolio#A Non-Invasive-Method-of-Detecting-Breast-Cancer-Determining-its-Effectiveness)
+  - [A Non-Invasive Method of Detecting Breast Cancer: Determining its Effectiveness](https://github.com/ifffah/datafolio#A-Non-Invasive-Method-of-Detecting-Breast-Cancer-Determining-its-Effectiveness)
 
 ## A Non Invasive Method of Detecting Breast Cancer Determining its Effectiveness
 This was a project done during my final year at the University of Southampton part of the Mathematics Project module. 
