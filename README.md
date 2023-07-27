@@ -3,14 +3,18 @@
 ## Introduction
 Hello! This is Iffah Asmawi's Data Analyst Portfolio.
 
-This repository is a collection of my data projects. The topics delve into my personal interests and finding trends. 
+This repository is a collection of my data projects. The projects delve into a variety of different topics that I'm personally interested in. They are also a means to further test my skills and develop new techniques.
+
+Currently I am a data analyst apprentice at the State Judiciary Department. I am keen to develop my skills in search of an entry-level position.
 
 ## Table of Content
 - R Projects
   - [University Project on Breast Cancer](https://github.com/ifffah/datafolio#university-project-on-breast-cancer)
 - Excel Projects
 - SQL Projects
-  - Genshin Impact Character 
+  - Genshin Impact Character Breakdown
+- Visualisations and Presentations
+- Online Course Certifications
 # R Projects
 
 ### University Project on Breast Cancer
@@ -24,6 +28,8 @@ The title of this project is A Non-Invasive Method of Detecting Breast Cancer: D
 
 **Skills Employed**: Logistic Regression, Data modelling, Variable Selection
 
-## Skills Employed
-Excel, Data visualisation using Tableau
+## Excel Projects
+
+
+## SQL Projects
 
