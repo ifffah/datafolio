@@ -18,9 +18,11 @@ Currently I am a data analyst apprentice at the State Judiciary Department. I am
 # R Projects
 
 ### University Project on Breast Cancer
-The title of this project is A Non-Invasive Method of Detecting Breast Cancer: Determining its Effectiveness. This was a project done during my final year at the University of Southampton as part of the Mathematics Project module. 
+Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Determining its Effectiveness.' This was a project done during my final year at the University of Southampton as part of the Mathematics Project module. 
 
 **Description**: This project was to determine whether Fine Needle Aspiration is a good method of biopsy in the process of identifying breast cancer cells. The dataset includes abnormality scores of cell structures of cells extracted using fine needle aspiration and the patient's actual cancer diagnosis. We use the scores to build a model using logistic regression and see whether model is accurate in diagnosing cancer cells.
+
+[**Report PDF**](https://github.com/ifffah/datafolio)
 
 **Data Set**: Wisconson breast cancer database from R Package 'faraway' under 'wbca'. Author: Julian Faraway
 
