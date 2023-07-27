@@ -15,7 +15,7 @@ Currently I am a data analyst apprentice at the State Judiciary Department and l
   - Genshin Impact Character Breakdown
 - Visualisations and Presentations
 - Online Course Certifications
-# R Projects
+## R Projects
 
 ### University Project on Breast Cancer
 Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Determining its Effectiveness.' This was a project done during my final year at the University of Southampton as part of the Mathematics Project module. 
@@ -31,7 +31,15 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 **Skills Employed**: Logistic Regression, Data modelling, Variable Selection
 
 ## Excel Projects
+### K-Pop Popularity Survey
 [**Dataset Used**](https://figshare.com/articles/dataset/KPOP_DATA_xlsx/12093648/2)
+^ possibly not doing this 
+### K-Pop Idols in Luxury Brands
+data cleaning, web scraping, digital marketing, marketing
 
 ## SQL Projects
+## Genshin Impact Characters
+[**Dataset Used**](https://www.kaggle.com/datasets/sophiahealy/genshin-impact-character-data)
+[**Dataset Used 2**](https://www.kaggle.com/datasets/saladyong/genshin-impact-banner-revenue)
+[Dataset 2 collected from](https://genshinlab.com/genshin-impact-revenue-chart/)
 
