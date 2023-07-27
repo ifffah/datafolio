@@ -5,7 +5,7 @@ Hello! This is Iffah Asmawi's Data Analyst Portfolio.
 
 This repository is a collection of my data projects. The projects delve into a variety of different topics that I'm personally interested in. They are also a means to further test my skills and develop new techniques.
 
-Currently I am a data analyst apprentice at the State Judiciary Department. I am keen to develop my skills in search of an entry-level position.
+Currently I am a data analyst apprentice at the State Judiciary Department and looking forward to advancing my career into an entry-level position.
 
 ## Table of Content
 - R Projects
@@ -22,16 +22,16 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 
 **Description**: This project was to determine whether Fine Needle Aspiration is a good method of biopsy in the process of identifying breast cancer cells. The dataset includes abnormality scores of cell structures of cells extracted using fine needle aspiration and the patient's actual cancer diagnosis. We use the scores to build a model using logistic regression and see whether model is accurate in diagnosing cancer cells.
 
-[**Report PDF**](https://github.com/ifffah/datafolio)
+[**Report as PDF**](https://github.com/ifffah/datafolio/blob/28efedd7219534d256e2e58edbe457ce041bd560/A%20Non-Invasive%20Method%20of%20Detecting%20Breast%20Cancer_%20Determining%20its%20Effectiveness.pdf)
 
-**Data Set**: Wisconson breast cancer database from R Package 'faraway' under 'wbca'. Author: Julian Faraway
+**Dataset Used**: Wisconson breast cancer database from R Package 'faraway' under 'wbca'. Author: Julian Faraway
 
 **Program Used**: RStudio
 
 **Skills Employed**: Logistic Regression, Data modelling, Variable Selection
 
 ## Excel Projects
-
+[**Dataset Used**](https://figshare.com/articles/dataset/KPOP_DATA_xlsx/12093648/2)
 
 ## SQL Projects
 
