@@ -10,6 +10,7 @@ Currently I am a data analyst apprentice at the State Judiciary Department and l
 ## Table of Content
 - Projects
   - [University Project on Breast Cancer](https://github.com/ifffah/datafolio#university-project-on-breast-cancer)
+  - [K-Pop Idols in Luxury Brands](https://github.com/ifffah/datafolio#university-project-on-breast-cancer)
 - Excel Projects
 - SQL Projects
   - Genshin Impact Character Breakdown
@@ -34,6 +35,7 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 **Description**: There is an ongoing trend of luxury fashion and beauty brands choosing idols in K-Pop as ambassadors. I was interested to see if there were any trends or insights we can get on this particular topic. This was a project on data collecting and data visualisation.  
 
 [**Dashboard on Tableau Public**](https://public.tableau.com/views/K-PopinLuxuryBrands/Summary?:language=en-US&:display_count=n&:origin=viz_share_link). Author: Iffah Asmawi
+
 [**Report as powerpoint**]()
 
 **Programs Used**: Microsoft Excel, Tableau
