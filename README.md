@@ -10,11 +10,8 @@ Currently I am a data analyst apprentice at the State Judiciary Department and l
 ## Table of Content
 - Projects
   - [University Project on Breast Cancer](https://github.com/ifffah/datafolio#university-project-on-breast-cancer)
-  - [K-Pop Idols in Luxury Brands](https://github.com/ifffah/datafolio#university-project-on-breast-cancer)
-- Excel Projects
-- SQL Projects
-  - Genshin Impact Character Breakdown
-- Visualisations and Presentations
+  - [K-Pop Idols in Luxury Brands](https://github.com/ifffah/datafolio/blob/main/README.md#k-pop-in-luxury-brands)
+  - Video Games on SQL
 - Online Course Certifications
 ## Projects
 
@@ -32,7 +29,7 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 **Skills Employed**: Logistic Regression, Data Modelling, Variable Selection
 
 ### K-Pop in Luxury Brands
-**Description**: There is an ongoing trend of luxury fashion and beauty brands choosing idols in K-Pop as ambassadors. I was interested to see if there were any trends or insights we can get on this particular topic. This was a project on data collecting and data visualisation.  
+**Description**: There is a rising trend of K-Pop Idols being named luxury brands’ ambassadors, as well as other brand deals or partnerships. The aim of this project is to compile the information into a dataset and visualise it into a dashboard. 
 
 [**Dashboard on Tableau Public**](https://public.tableau.com/views/K-PopinLuxuryBrands/Summary?:language=en-US&:display_count=n&:origin=viz_share_link). Author: Iffah Asmawi
 
@@ -40,10 +37,9 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 
 **Programs Used**: Microsoft Excel, Tableau
 
-**Skills Employed**: Data collection, Data Visualisations & Dashboards
+**Skills Employed**: Data Collection & Cleaning, Data Visualisations & Dashboards
 
-## SQL Projects
-## Genshin Impact Characters
+### Video Games
 [**Dataset Used**](https://www.kaggle.com/datasets/sophiahealy/genshin-impact-character-data)
 [**Dataset Used 2**](https://www.kaggle.com/datasets/saladyong/genshin-impact-banner-revenue)
 [Dataset 2 collected from](https://genshinlab.com/genshin-impact-revenue-chart/)
