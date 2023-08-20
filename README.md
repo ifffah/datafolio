@@ -33,6 +33,8 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 
 [**Dashboard on Tableau Public**](https://public.tableau.com/views/K-PopinLuxuryBrands/Summary?:language=en-US&:display_count=n&:origin=viz_share_link). Author: Iffah Asmawi
 
+![image](https://github.com/ifffah/datafolio/assets/139728397/a4e50ec1-303d-477c-8478-1e42cccfa5fb)
+
 [**Report as powerpoint**]()
 
 **Programs Used**: Microsoft Excel, Tableau
