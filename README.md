@@ -37,7 +37,7 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 
 **Programs Used**: Microsoft Excel, Tableau
 
-**Skills Employed**: Data Collection & Cleaning, Data Visualisations & Dashboards
+**Skills Employed**: Data Collection & Cleaning, Data Visualisations, Dashboards
 
 ### Video Games
 [**Dataset Used**](https://www.kaggle.com/datasets/sophiahealy/genshin-impact-character-data)
