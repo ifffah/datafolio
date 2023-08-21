@@ -37,7 +37,7 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 
 [**Report as powerpoint**](https://docs.google.com/presentation/d/1hJglfZX1RHkUPehXD2mBoNr7cLSPupJW/edit?usp=sharing&ouid=100592074269604576306&rtpof=true&sd=true)
 
-**Datasets Used**: [K-Pop Idols - Fashion and Beauty Brand Deals](https://www.kaggle.com/datasets/iffahasmawi/kpop-brand-deals)
+**Datasets Used**: [K-Pop Idols - Fashion and Beauty Brand Deals on Kaggle](https://www.kaggle.com/datasets/iffahasmawi/kpop-brand-deals)
 
 **Programs Used**: Microsoft Excel, Tableau
 
