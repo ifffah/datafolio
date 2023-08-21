@@ -37,12 +37,11 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 
 [**Report as powerpoint**](https://docs.google.com/presentation/d/1hJglfZX1RHkUPehXD2mBoNr7cLSPupJW/edit?usp=sharing&ouid=100592074269604576306&rtpof=true&sd=true)
 
+**Datasets Used**: [K-Pop Idols - Fashion and Beauty Brand Deals](https://www.kaggle.com/datasets/iffahasmawi/kpop-brand-deals)
+
 **Programs Used**: Microsoft Excel, Tableau
 
 **Skills Employed**: Data Collection & Cleaning, Data Visualisations, Dashboards
 
-### Video Games
-[**Dataset Used**](https://www.kaggle.com/datasets/sophiahealy/genshin-impact-character-data)
-[**Dataset Used 2**](https://www.kaggle.com/datasets/saladyong/genshin-impact-banner-revenue)
-[Dataset 2 collected from](https://genshinlab.com/genshin-impact-revenue-chart/)
+### SQL Querying Project
 
