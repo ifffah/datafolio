@@ -3,7 +3,7 @@
 ## Introduction
 Hello! This is Iffah Asmawi's Data Analyst Portfolio.
 
-This repository is a collection of my data projects. The projects delve into a variety of different topics that I'm personally interested in. They are also a means to further test my skills and develop new techniques.
+This repository is a collection of my data projects. The projects delve into a variety of different topics that I'm personally interested in. They are also a means to further test my skills and develop new techniques involved in data analytics.
 
 Currently I am a data analyst apprentice at the State Judiciary Department and looking forward to advancing my career into an entry-level position.
 
@@ -33,9 +33,9 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 
 [**Dashboard on Tableau Public**](https://public.tableau.com/views/K-PopinLuxuryBrands/Summary?:language=en-US&:display_count=n&:origin=viz_share_link), Also available as Tableau Workbook [file](https://github.com/ifffah/datafolio/blob/f7e0d330f049cc4ac7991845e1b2f1a737d748be/K-Pop%20in%20Luxury%20Brands.twbx)
 
-![image](https://github.com/ifffah/datafolio/assets/139728397/a4e50ec1-303d-477c-8478-1e42cccfa5fb)
-
 [**Report as powerpoint**](https://docs.google.com/presentation/d/1hJglfZX1RHkUPehXD2mBoNr7cLSPupJW/edit?usp=sharing&ouid=100592074269604576306&rtpof=true&sd=true)
+
+![image](https://github.com/ifffah/datafolio/assets/139728397/a4e50ec1-303d-477c-8478-1e42cccfa5fb)
 
 **Datasets Used**: [K-Pop Idols - Fashion and Beauty Brand Deals on Kaggle](https://www.kaggle.com/datasets/iffahasmawi/kpop-brand-deals)
 
