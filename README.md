@@ -31,7 +31,7 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 ### K-Pop in Luxury Brands
 **Description**: There is a rising trend of K-Pop Idols being named luxury brands’ ambassadors, as well as other brand deals or partnerships. The aim of this project is to compile the information into a dataset and visualise it into a dashboard. 
 
-[**Dashboard on Tableau Public**](https://public.tableau.com/views/K-PopinLuxuryBrands/Summary?:language=en-US&:display_count=n&:origin=viz_share_link)
+[**Dashboard on Tableau Public**](https://public.tableau.com/views/K-PopinLuxuryBrands/Summary?:language=en-US&:display_count=n&:origin=viz_share_link), Also available as Tableau Workbook file
 
 ![image](https://github.com/ifffah/datafolio/assets/139728397/a4e50ec1-303d-477c-8478-1e42cccfa5fb)
 
