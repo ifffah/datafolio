@@ -11,8 +11,6 @@ Currently I am a data analyst apprentice at the State Judiciary Department and l
 - Projects
   - [University Project on Breast Cancer](https://github.com/ifffah/datafolio#university-project-on-breast-cancer)
   - [K-Pop Idols in Luxury Brands](https://github.com/ifffah/datafolio/blob/main/README.md#k-pop-in-luxury-brands)
-  - Video Games on SQL
-- Online Course Certifications
 ## Projects
 
 ### University Project on Breast Cancer
@@ -42,6 +40,4 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 **Programs Used**: Microsoft Excel, Tableau
 
 **Skills Employed**: Data Collection & Cleaning, Data Visualisations, Dashboards
-
-### SQL Querying Project
 
