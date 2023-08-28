@@ -3,7 +3,7 @@
 ## Introduction
 Hello! This is Iffah Asmawi's Data Analyst Portfolio.
 
-This repository is a collection of my data projects. The projects delve into a variety of different topics that I'm personally interested in. They are also a means to further test my skills and develop new techniques involved in data analytics.
+This repository is a collection of my data projects. The projects delve into a variety of different topics that I'm interested in. They are also a means to further test my skills and develop new techniques involved in data analytics.
 
 Currently I am a data analyst apprentice at the State Judiciary Department and looking forward to advancing my career into an entry-level position.
 
