@@ -99,9 +99,25 @@ SELECT CONCAT('$', CAST(avg(sales) AS DECIMAL(10,2)))  AS "Average Orders on Boo
 FROM salesreport
 WHERE category LIKE 'Books';
 
--- Profit
+-- Overall Profit
 SELECT CONCAT('$', sum(sales - cost)) AS "Total Profits"
 FROM salesreport;
+
+-- Most profitable item category
+SELECT 
+	category,
+    CONCAT('$', sum(sales - cost)) AS "Profits"
+FROM salesreport
+GROUP BY category
+ORDER BY sum(sales - cost) desc;
+
+-- Largest profit order
+SELECT 
+	*,
+    CONCAT('$', sales - cost) AS "Profits"
+FROM salesreport
+ORDER BY (sales - cost) desc
+LIMIT 1;
 
 -- Which manager raked in the most sales
 SELECT 
@@ -112,6 +128,7 @@ FROM salesreport
 GROUP BY sales_manager
 ORDER BY sum(sales - cost) desc;
 
+-- Which representative raked in the most sales
 SELECT 
 	sales_rep,
     CONCAT('$', sum(sales - cost)) AS "Total Profits",
