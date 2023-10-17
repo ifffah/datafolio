@@ -10,7 +10,7 @@ Currently I am a data analyst apprentice at the State Judiciary Department and l
 ## Table of Content
 - Projects
   - [University Project on Breast Cancer](https://github.com/ifffah/datafolio#university-project-on-breast-cancer)
-  - [K-Pop Idols in Luxury Brands](https://github.com/ifffah/datafolio/blob/main/README.md#k-pop-in-luxury-brands)
+  - [Luxury Brand Ambassadors and K-Pop](https://github.com/ifffah/datafolio/blob/main/README.md#k-pop-in-luxury-brands)
   - [Querying Sales Report](https://github.com/ifffah/datafolio/blob/main/README.md#querying-sales-report) 
 
 ## Projects
@@ -28,7 +28,7 @@ Title of the project is 'A Non-Invasive Method of Detecting Breast Cancer: Deter
 
 **Skills Employed**: Logistic Regression, Data Modelling, Variable Selection
 
-### K-Pop in Luxury Brands
+### Luxury Brand Ambassadors and K-Pop
 **Description**: There is a rising trend of K-Pop Idols being named luxury brands’ ambassadors, as well as other brand deals or partnerships. The aim of this project is to compile the information into a dataset and visualise it into a dashboard. 
 
 [**Dashboard on Tableau Public**](https://public.tableau.com/views/K-PopinLuxuryBrands/Summary?:language=en-US&:display_count=n&:origin=viz_share_link), Also available as Tableau Workbook [file](https://github.com/ifffah/datafolio/blob/f7e0d330f049cc4ac7991845e1b2f1a737d748be/K-Pop%20in%20Luxury%20Brands.twbx)
